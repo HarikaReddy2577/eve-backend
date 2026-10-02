@@ -73,7 +73,7 @@ A slot is considered **occupied** by `CONFIRMED` bookings and by `PENDING` booki
 **Requirements:** Python 3.10+ and PostgreSQL.
 
 ```
-git clone https://github.com/YOURUSERNAME/eve-backend.git
+git clone https://github.com/HarikaReddy2577/eve-backend.git
 cd eve-backend
 python -m venv venv
 venv\Scripts\activate
